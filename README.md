@@ -1,4 +1,4 @@
-# Título
+# Criar Ideias - Front
 
 <!-- Shields Exemplo, existem N diferentes shield em https://shields.io/ -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
@@ -15,6 +15,8 @@
 Antes de executar o projeto, certifique-se de ter as seguintes dependências instaladas:
 
 - Antes de começar, verifique se você possui o `Tecnologia X` instalado em sua máquina. Se não tiver, você pode baixar o `Tecnologia X` [aqui](https://exemplo_de_link.com).
+- PHP
+- MySQL
 
 ## Como executar o projeto
 
@@ -27,7 +29,7 @@ Execute os seguintes comandos a partir da pasta raiz do projeto:
 ### Clone este repositório
 
 ```bash
-git clone <link-do-repositorio>
+git clone git@github.com:criarideias/criarideias-front.git
 ```
 
 Este link pode ser encontrado no botão verde acima `Code`.
@@ -35,17 +37,17 @@ Este link pode ser encontrado no botão verde acima `Code`.
 ### Instale as dependências
 
 ```bash
-npm install
+Não há dependencias neste projeto
 ```
 
 ### Defina as variáveis de ambiente
 
-Descrição de como definir as variáveis de ambiente
+As variaveis de ambiente sao instaladas dentro da configuração do proprio REPO
 
 ### Execute o Projeto
 
 ```bash
-npm run dev
+roda automaticamente no apache2 / nginx
 ```
 
 ## Estrutura de Pastas
@@ -94,11 +96,11 @@ Como alternativa, consulte a documentação do GitHub sobre [como criar uma soli
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ryrden">
-        <img src="https://github.com/ryrden.png" width="100px">
+      <a href="https://github.com/jhonattas">
+        <img src="https://avatars.githubusercontent.com/u/1225954?v=4" width="100px">
         <br>
         <sub>
-          <b>Ryrden</b>
+          <b>Jhonattas</b>
         </sub>
       </a>
     </td>
